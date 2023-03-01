@@ -1,0 +1,9 @@
+#REQUEST
+string key
+string value
+---
+#RESULT
+bool success
+---
+#FEEDBACK
+int32 state
