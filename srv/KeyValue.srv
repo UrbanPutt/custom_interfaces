@@ -1,0 +1,7 @@
+#REQUEST
+string key
+string value
+---
+#RESPONSE
+string key
+string value
